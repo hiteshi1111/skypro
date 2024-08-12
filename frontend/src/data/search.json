@@ -1,0 +1,19 @@
+[
+    { "name": "Home", "path": "/" },
+    { "name": "About", "path": "/about-us" },
+    { "name": "Contact", "path": "/contact-us" },
+    { "name": "City", "path": "/cities" },
+    { "name": "IPTV", "path": "/iptv-app" },
+    { "name": "Sitemap", "path": "/sitemap.html" },
+    { "name": "FAQs", "path": "/faqs" },
+    { "name": "Blogs", "path": "/blogs" },
+    { "name": "Privacy Policy", "path": "/privacy-policy" },
+    { "name": "Terms and Conditions", "path": "/terms-and-conditions" },
+    { "name": "Refund Policy", "path": "/refund-policy" },
+    { "name": "Cancellation Policy", "path": "/cancellation-policy" },
+    { "name": "ISP", "path": "/isp" },
+    { "name": "Customers", "path": "/customers" },
+    { "name": "Customer Support", "path": "/iptv-customer-support" },
+    { "name": "Packages", "path": "/iptv-subscription-packages" },
+    { "name": "Compliance", "path": "/iptv-compliance-regulatory" }
+]
